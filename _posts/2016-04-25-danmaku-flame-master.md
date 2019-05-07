@@ -46,6 +46,7 @@ tags: [ANDROID]
 
 到网上找了如下的解决方法
 
+```
 Handler myHandler = new Handler(new Handler.Callback() {  
   
   
@@ -79,3 +80,4 @@ Handler myHandler = new Handler(new Handler.Callback() {
         }  
     });  
     myHandler.sendEmptyMessage(PROGRESS_CHANGED);  
+    ```
