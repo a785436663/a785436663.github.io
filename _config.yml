@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 785436663@qq.com
 description: "关于Android | 蒋健| 这里是 蒋健 的个人博客，与你一起发现更大的世界。"
 keyword: "蒋健, wriar, 785436663, @蒋健, 蒋健的博客, JiangJian Blog, 博客, 个人网站, 互联网"
-url: "https://a785436663.github.io"              # your host, for absolute URL
+url: "https://easytome.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -14,7 +14,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 weibo_username:     a785436663
 zhihu_username:     a785436663
-github_username:    a785436663
+github_username:    easytome
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 # linkedin_username:  firstname-lastname-idxxxx
